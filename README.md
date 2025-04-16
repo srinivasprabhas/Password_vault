@@ -41,6 +41,8 @@ A secure, user-friendly desktop application built using Python to store and mana
 
 ---
 
+![Sample output1](https://github.com/srinivasprabhas/Password_vault/blob/main/pv_execution.mp4)
+
 ## ⚙️ Setup Instructions
 
 
@@ -60,7 +62,6 @@ pip install -r requirements.txt
 pyhton pv.py
 
 
-![Sample output1](https://github.com/srinivasprabhas/Password_vault/blob/main/pv_execution.mp4)
 
 
 
