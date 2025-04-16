@@ -55,9 +55,12 @@ cd password-vault
 pip install -r requirements.txt
 
 3. Ensure MySQL is running, and create the database (auto-created on first run).
+
 4. Run the application
 pyhton pv.py
 
+
+![Sample output1](https://github.com/srinivasprabhas/Password_vault/blob/main/pv_execution.mp4)
 
 
 
